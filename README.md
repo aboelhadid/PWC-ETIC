@@ -30,7 +30,7 @@ RPA_Assessment/
 
 # Python #
   Navigate to the directory
- Ex.cd "C:\Users\mahmoud.aboelhadid\Documents\UiPath\Excel Manipulation\Excel Manipulation\Output\"
+ Ex: cd "C:\Users\mahmoud.aboelhadid\Documents\UiPath\Excel Manipulation\Excel Manipulation\Output\"
   
   Run your script
   py PythonAnalysis.py
@@ -39,4 +39,4 @@ RPA_Assessment/
 Part 1: ~3 hrs (data cleaning & testing)
 Part 2: ~3 hrs (email split)
 Part 3: ~2.5 hrs (web scraping)
-Part 4: ~3 hr (Python analysis)
+Part 4: ~4 hr (Python analysis)
